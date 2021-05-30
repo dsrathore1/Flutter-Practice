@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:practice/Practice_Day/Day1.dart';
+// import 'package:practice/Practice_Day/Day1.dart';
+import 'package:practice/Practice_Day/Day2.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: "Practice Days",
         debugShowCheckedModeBanner: false,
-        theme: ThemeData(primarySwatch: Colors.purple),
-        home: Day1());
+        theme: ThemeData(primarySwatch: Colors.deepOrange),
+        home: EasyRead());
   }
 }
