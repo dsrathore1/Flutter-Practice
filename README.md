@@ -6,15 +6,16 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-### Main
-<img align = 'center' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/Main.png'>
-
 ### Day 1
-
-<img align = 'center' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/Day%201.png'>
+<img align = 'left' height = '400' width = '200' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/1.gif'>  <img algin = 'right' height = '400' width = '200' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/1.png'>
 
 ### Day 2
-<img align = 'center' src = 'https://raw.githubusercontent.com/dsrathore1/Flutter-Practice/master/assets/Images/Day%202.png'>
+
+<img align = 'left' height = '400' width = '200' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/2.gif'>  <img  algin = 'right' height = '400' width = '200' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/2.png'>
+
+### Day 3
+<img align = 'left' height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/3.gif'> <img algin = 'right' height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/3.png'>
+
 
 
 A few resources to get you started if this is your first Flutter project:
