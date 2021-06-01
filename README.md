@@ -6,6 +6,17 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+### Main
+<img align = 'center' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/Main.png'>
+
+### Day 1
+
+<img align = 'center' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/Day%201.png'>
+
+### Day 2
+<img align = 'center' src = 'https://raw.githubusercontent.com/dsrathore1/Flutter-Practice/master/assets/Images/Day%202.png'>
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
