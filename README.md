@@ -16,7 +16,8 @@ This project is a starting point for a Flutter application.
 ### Day 3
 <img align = 'left' height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/3.gif'> <img algin = 'right' height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/3.png'>
 
-
+### Day 4
+<img align = 'left' height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/4.gif'> <img algin = 'right' height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/Images/4.png'>
 
 A few resources to get you started if this is your first Flutter project:
 
