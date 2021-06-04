@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import "package:flutter/material.dart";
 import 'package:flip_card/flip_card.dart';
 import 'package:practice/Widgets/flashcardView.dart';
