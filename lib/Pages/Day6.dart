@@ -34,7 +34,7 @@ class _Day6State extends State<Day6> {
         child: Center(
           child: CarouselSlider(
             options: CarouselOptions(
-              autoPlay: false,
+              autoPlay: true,
               height: 600,
               autoPlayCurve: Curves.linearToEaseOut,
               enlargeCenterPage: true,
