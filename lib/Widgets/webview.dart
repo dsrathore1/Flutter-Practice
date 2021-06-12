@@ -12,7 +12,7 @@ class NavigationBar extends StatelessWidget {
   final IconData? icon;
   final Function()? onPressed;
   final Color? color;
-  NavigationBar({Key? key, this.icon, this.onPressed, this.color})
+  NavigationBar({Key? key, @required this.icon, @required this.onPressed, this.color})
       : super(key: key);
 
   @override
