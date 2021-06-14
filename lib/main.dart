@@ -7,7 +7,7 @@ import 'package:practice/Pages/Day3.dart';
 import 'package:practice/Pages/Day4.dart';
 import 'package:practice/Pages/Day5.dart';
 import 'package:practice/Pages/Day6.dart';
-
+import 'package:practice/Pages/Day7.dart';
 
 void main() {
   runApp(MyApp());
@@ -23,8 +23,11 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.deepOrange,
         fontFamily: GoogleFonts.robotoSlab().fontFamily,
       ),
-      initialRoute: "/Day6",
+      initialRoute: "/Day7",
       routes: {
+        // "/Day9": (day9) => Day9(),
+        // "/Day8": (day8) => Day8(),
+        "/Day7": (day7) => Day7(),
         "/Day6": (day6) => Day6(),
         "/Day5": (day5) => Day5(),
         "/Day4": (day4) => Day4(),
