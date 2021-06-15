@@ -81,8 +81,6 @@ class _Day7State extends State<Day7> {
               child: GridView.builder(
                 padding: EdgeInsets.zero,
                 itemCount: buttons.length,
-                keyboardDismissBehavior:
-                    ScrollViewKeyboardDismissBehavior.onDrag,
                 gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 4,
                 ),
