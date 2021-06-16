@@ -30,6 +30,10 @@ This project is a starting point for a Flutter application.
 <h2 align = 'center'>Day 7 </h2>
 <img align = 'left'  height = '400' width = '200'  src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/7.gif'></div>  <div align = 'right'><img algin = 'right'  height = '400' width = '200' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/PNG/7.png'></div>
 
+<h2 align = 'center'>Day 8 </h2>
+<div align = 'center'> 
+<img  height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/GIFs/8.gif'></div>  <div align = 'center'> <img height = ' 400' width = '600' src = 'https://github.com/dsrathore1/Flutter-Practice/blob/master/assets/PNG/8.png'></div>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
